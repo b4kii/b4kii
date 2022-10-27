@@ -1,6 +1,8 @@
 ### Hello, my name is Damian! :raised_hand:
 
-Currently computer science student. Modal editing enjoyer (vim keybindings :heart:). Keyboard enthusiast.
+- Currently computer science student. 
+- Modal editing enjoyer (vim keybindings :heart:). 
+- Keyboard enthusiast.
 
 ## Languages :
 
