@@ -1,4 +1,4 @@
-### Hello, my name is Damian! :raised_hand:
+### Hello! :raised_hand:
 
 - Currently computer science student. 
 
